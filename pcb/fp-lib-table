@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "ESP32S3")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints/ESP32S3.pretty")(options "")(descr ""))
   (lib (name "TS-1088-AR02016")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints/TS-1088-AR02016.pretty")(options "")(descr ""))
+  (lib (name "TYPEC-303-ACP16")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints/TYPEC-303-ACP16.pretty")(options "")(descr ""))
+  (lib (name "SK6812SMINI-ER")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints/SK6812SMINI-ER.pretty")(options "")(descr ""))
+  (lib (name "ACT45B-101-2P-TL003")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints/ACT45B-101-2P-TL003.pretty")(options "")(descr ""))
 )
